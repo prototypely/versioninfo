@@ -13,4 +13,5 @@ $ modman clone git@github.com:mageflow/versioninfo.git
 ```
 
 To install Mageflow_Versioninfo for production use Magento Connect:
+
 "url to be defined after MC publishes extension"
