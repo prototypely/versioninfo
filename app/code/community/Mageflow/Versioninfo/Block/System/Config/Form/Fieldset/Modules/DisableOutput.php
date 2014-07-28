@@ -58,6 +58,7 @@ class Mageflow_Versioninfo_Block_System_Config_Form_Fieldset_Modules_DisableOutp
 
         $versionArr = Mage::getConfig()->getXpath('/*//modules/' . $moduleName . '/version/text()');
 
+        $version = '';
         if (is_array($versionArr) && sizeof($versionArr) > 0) {
             $version = (string)$versionArr[0];
         }

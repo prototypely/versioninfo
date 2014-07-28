@@ -2,3 +2,5 @@
 #
 app/code/community/Mageflow/Versioninfo 	public/app/code/community/Mageflow/Versioninfo
 app/etc/modules/Mageflow_Versioninfo.xml	public/app/etc/modules/Mageflow_Versioninfo.xml
+var/connect/Mageflow_Versioninfo.xml		public/var/connect/Mageflow_Versioninfo.xml
+var/connect/package.xml				public/var/connect/package.xml
