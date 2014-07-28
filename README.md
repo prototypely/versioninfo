@@ -1,7 +1,7 @@
 Mageflow_VersionInfo
 ===========
 
-This Magento extension displays extension version information in Magento backend
+This Magento extension displays module version information in Magento backend
 
 Installation
 ===========

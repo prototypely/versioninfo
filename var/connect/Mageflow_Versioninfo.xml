@@ -1,18 +1,20 @@
 <_>
-   <form_key>H24dl1FkF2lsTlC8</form_key>
+   <form_key>fpdM31SnhSPV3Sfg</form_key>
    <name>Mageflow_Versioninfo</name>
    <channel>community</channel>
    <version_ids>
       <version_ids>2</version_ids>
    </version_ids>
    <summary>Mageflow_Versioninfo is an utility extension 
-to see installed extension version numbers.</summary>
-   <description>Mageflow_Versioninfo displays version number of each installed Magento Extension in the backend under system/configuration/developers/advanced</description>
+to see version numbers of installed modules.</summary>
+   <description>Mageflow_Versioninfo displays version number of each installed Magento module in the backend under system/configuration/developers/advanced</description>
    <license>OSL 3.0</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
    <version>1.0.0</version>
    <stability>stable</stability>
-   <notes>1.0.0 Stable release</notes>
+   <notes>1.0.0 Stable release
+1.0.1 Bugfix release
+MFV-1 Pedantic semantic fixes proposed by mr Storm</notes>
    <authors>
       <name>
          <name>Sven Varkel</name>
@@ -41,7 +43,7 @@ to see installed extension version numbers.</summary>
             <max/>
          </max>
          <files>
-            <files>  </files>
+            <files>    </files>
          </files>
       </package>
       <extension>

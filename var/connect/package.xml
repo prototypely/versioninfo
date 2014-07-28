@@ -7,13 +7,15 @@
     <channel>community</channel>
     <extends/>
     <summary>Mageflow_Versioninfo is an utility extension &#xD;
-to see installed extension version numbers.</summary>
-    <description>Mageflow_Versioninfo displays version number of each installed Magento Extension in the backend under system/configuration/developers/advanced</description>
-    <notes>1.0.0 Stable release</notes>
+to see version numbers of installed modules.</summary>
+    <description>Mageflow_Versioninfo displays version number of each installed Magento module in the backend under system/configuration/developers/advanced</description>
+    <notes>1.0.0 Stable release&#xD;
+1.0.1 Bugfix release&#xD;
+MFV-1 Pedantic semantic fixes proposed by mr Storm</notes>
     <authors><author><name>Sven Varkel</name><user>svenvarkel</user><email>sven@mageflow.com</email></author></authors>
     <date>2014-07-28</date>
-    <time>12:00:24</time>
-    <contents><target name="magecommunity"><dir name="Mageflow"><dir name="Versioninfo"><dir name="Block"><dir name="System"><dir name="Config"><dir name="Form"><dir name="Fieldset"><dir name="Modules"><file name="DisableOutput.php" hash="15803bf86b49848a63f0851bb6f8d97a"/></dir></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="86593ad4cb5577742b3b05c0a068e743"/></dir><file name="LICENSE" hash="472733151894d7d6cefcf927a8a6e9b5"/><file name="README.md" hash="cbc0f1b25b9d2dc962f5511844e5ef13"/><dir name="etc"><file name="config.xml" hash="0989fc73124e4ccb7a6017e136f8edd9"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Mageflow_Versioninfo.xml" hash="7e91217a0500b6d4c39d56e1b4638112"/></dir></target></contents>
+    <time>16:27:04</time>
+    <contents><target name="magecommunity"><dir name="Mageflow"><dir name="Versioninfo"><dir name="Block"><dir name="System"><dir name="Config"><dir name="Form"><dir name="Fieldset"><dir name="Modules"><file name="DisableOutput.php" hash="15803bf86b49848a63f0851bb6f8d97a"/></dir></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="86593ad4cb5577742b3b05c0a068e743"/></dir><file name="LICENSE" hash="472733151894d7d6cefcf927a8a6e9b5"/><file name="README.md" hash="277dece03a85ecf9f602603cf4b4b7d2"/><dir name="etc"><file name="config.xml" hash="0989fc73124e4ccb7a6017e136f8edd9"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Mageflow_Versioninfo.xml" hash="7e91217a0500b6d4c39d56e1b4638112"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.3.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
